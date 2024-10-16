@@ -1,4 +1,10 @@
-# Building your layout from source
+# ZSA Voyager QMK configuration
+
+## Sources
+
+This configuration was downloaded from [this layout](https://configure.zsa.io/voyager/layouts/eVByW).
+
+## Building your layout from source
 
 Congratulations on taking the next step, and making use of your keyboard's open-source nature! There's so much power to unlock — this is going to be fun. :)
 
